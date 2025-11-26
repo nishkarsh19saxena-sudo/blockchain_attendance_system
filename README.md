@@ -28,3 +28,4 @@ To replace outdated attendance methods with a secure, decentralized, and trustwo
 - Student login dashboard
 - Integration with mobile app
 - Multi-class attendance analytics dashboard
+contract address 0xf7c629314a7dD0086D0f44361Bc2DdA08D59E7d9
